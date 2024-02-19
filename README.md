@@ -1,4 +1,4 @@
-# The-Full-Stack-Web-Development-Bootcamp
+# The-Back-End-Web-Development-Bootcamp
 
 [![Patika+ Türkiye'nin En Kapsamlı Web Developer Bootcamp'i](/readmeAssets/logo.png "Patika+ Türkiye'nin En Kapsamlı Web Developer Bootcamp'i")](https://patika.dev)
 
