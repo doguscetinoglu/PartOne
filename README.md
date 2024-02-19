@@ -76,10 +76,6 @@ This repository serves as a comprehensive record of my learning journey, designe
 
 </details>
 
-#### Frontend Phase
-
-...waiting
-
 ---
 
 ### Usage Rights
