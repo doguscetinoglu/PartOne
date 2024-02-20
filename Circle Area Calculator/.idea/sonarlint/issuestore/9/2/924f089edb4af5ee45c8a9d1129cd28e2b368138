@@ -1,0 +1,10 @@
+
+0
+java:S1220""Move this file to a named package.
+^
+java:S1659"BDeclare "angle" and all following declarations on a separate line.(ß—Ş)8åÔø·Ü1
+L	java:S106"+Replace this use of System.out by a logger.(ˆ®Ô©şÿÿÿÿ8èÔø·Ü1
+L	java:S106"+Replace this use of System.out by a logger.(¥¦‰²ıÿÿÿÿ8éÔø·Ü1
+G	java:S106"+Replace this use of System.out by a logger.(•ş…8éÔø·Ü1
+L	java:S106"+Replace this use of System.out by a logger.(ú½¹Õşÿÿÿÿ8éÔø·Ü1
+G	java:S106"+Replace this use of System.out by a logger.(Ï„Õà8éÔø·Ü1
