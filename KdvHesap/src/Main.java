@@ -12,6 +12,7 @@ public class Main {
         kdvOran = 0.18;
         kdvTutar = tutar * kdvOran;
         kdvliTutar = tutar + kdvTutar;
+
     }
     else {
         kdvOran = 0.08;
