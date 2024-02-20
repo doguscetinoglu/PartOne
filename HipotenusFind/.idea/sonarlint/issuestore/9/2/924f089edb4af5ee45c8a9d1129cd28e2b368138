@@ -1,0 +1,15 @@
+
+7
+java:S1220""Move this file to a named package.8ί’²ά1
+U
+java:S1854"9Remove this useless assignment to local variable "cevre".(ωϊΜJ8ζ’²ά1
+j
+java:S1659"HDeclare "ikinciKenar" and all following declarations on a separate line.(©”γ±ώÿÿÿÿ8ζ’²ά1
+^
+java:S1659"ADeclare "alan" and all following declarations on a separate line.(ι‚κί8η’²ά1
+G
+java:S1481"*Remove this unused "cevre" local variable.(ι‚κί8η’²ά1
+L	java:S106	"+Replace this use of System.out by a logger.(βΆΔϋÿÿÿÿ8ι’²ά1
+L	java:S106"+Replace this use of System.out by a logger.(‚Σόÿÿÿÿ8ι’²ά1
+L	java:S106"+Replace this use of System.out by a logger.(ι–γ†ψÿÿÿÿ8κ’²ά1
+G	java:S106"+Replace this use of System.out by a logger.(α¬8κ’²ά1
