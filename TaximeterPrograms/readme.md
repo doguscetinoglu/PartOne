@@ -10,7 +10,7 @@ Bu Java programı, kullanıcı tarafından sağlanan mesafeye göre taksi ücret
 
 ### İletişim
 
-Doğuş Çetinoğlu - [email protected]
+Doğuş Çetinoğlu - [doguscetinoglu@gmail.com]
 
 
 
@@ -27,4 +27,4 @@ This Java program calculates the taxi fare based on the distance provided by the
 
 ### Contact
 
-Doğuş Çetinoğlu - [email protected]
+Doğuş Çetinoğlu - [doguscetinoglu@gmail.com]
