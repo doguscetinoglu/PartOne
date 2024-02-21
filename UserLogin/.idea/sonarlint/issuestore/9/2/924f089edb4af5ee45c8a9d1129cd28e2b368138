@@ -1,0 +1,32 @@
+
+z	java:S135%"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8‰ÉÎîÜ1
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8ŠÉÎîÜ1
+z	java:S135T"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8ŠÉÎîÜ1
+Š
+java:S4165C"hRemove this useless assignment; "isLoggedIn" already holds the assigned value along all execution paths.(ÓÂÉ¢ıÿÿÿÿ8©ÉÎîÜ1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(Çµí‘8¬ÉÎîÜ1
+b
+java:S1659"EDeclare "password" and all following declarations on a separate line.(îíÑÃ8­ÉÎîÜ1
+H
+java:S1481"+Remove this unused "xdWord" local variable.(îíÑÃ8´¢×îÜ1
+F	java:S106	"+Replace this use of System.out by a logger.(üÿ¶	8±ÉÎîÜ1
+L	java:S106"+Replace this use of System.out by a logger.(ÜÍŠÑøÿÿÿÿ8²ÉÎîÜ1
+L	java:S106"+Replace this use of System.out by a logger.(ïÒ—ıÿÿÿÿÿ8²ÉÎîÜ1
+F	java:S106"+Replace this use of System.out by a logger.(œİ´)8²ÉÎîÜ1
+G	java:S106"+Replace this use of System.out by a logger.(ƒôÿ‚8²ÉÎîÜ1
+L	java:S106"+Replace this use of System.out by a logger.(êÓæøùÿÿÿÿ8³ÉÎîÜ1
+F	java:S106 "+Replace this use of System.out by a logger.(Ş§ 58³ÉÎîÜ1
+G	java:S106$"+Replace this use of System.out by a logger.(‰±§·8³ÉÎîÜ1
+G	java:S106&"+Replace this use of System.out by a logger.(áµˆ8³ÉÎîÜ1
+L	java:S106*"+Replace this use of System.out by a logger.(Ğ÷±ñüÿÿÿÿ8´ÉÎîÜ1
+F	java:S106."+Replace this use of System.out by a logger.(ü…8µÉÎîÜ1
+G	java:S1061"+Replace this use of System.out by a logger.(€™ô«8µÉÎîÜ1
+G	java:S106:"+Replace this use of System.out by a logger.(”ÂŠ¾8µÉÎîÜ1
+L	java:S106B"+Replace this use of System.out by a logger.(ÑÌ”‰ıÿÿÿÿ8¶ÉÎîÜ1
+G	java:S106I"+Replace this use of System.out by a logger.(ÿƒ‡¬8¶ÉÎîÜ1
+G	java:S106J"+Replace this use of System.out by a logger.(ƒôÿ‚8¶ÉÎîÜ1
+L	java:S106N"+Replace this use of System.out by a logger.(êÓæøùÿÿÿÿ8¸ÉÎîÜ1
+F	java:S106U"+Replace this use of System.out by a logger.(Ş§ 58¸ÉÎîÜ1
+G	java:S106Y"+Replace this use of System.out by a logger.(‰±§·8ºÉÎîÜ1
+L	java:S106\"+Replace this use of System.out by a logger.(ÑÌ”‰ıÿÿÿÿ8ºÉÎîÜ1
