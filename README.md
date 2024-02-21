@@ -2,7 +2,7 @@
 
 [![Patika+ Türkiye'nin En Kapsamlı Web Developer Bootcamp'i](/readmeAssets/logo.png "Patika+ Türkiye'nin En Kapsamlı Web Developer Bootcamp'i")](https://patika.dev)
 
-## The Full Stack Web Development Bootcamp Repository on Patika +
+## The Back End Web Development Bootcamp Repository on Patika +
 
 This repository serves as an extensive compilation of the projects and practice sessions completed throughout my journey with Patika+. As I advance through the program, each project and practice session is thoughtfully arranged into specific folders within this repository.
 
