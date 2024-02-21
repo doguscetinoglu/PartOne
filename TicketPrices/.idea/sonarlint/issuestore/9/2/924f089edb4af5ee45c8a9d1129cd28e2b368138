@@ -1,0 +1,19 @@
+
+7
+java:S1220""Move this file to a named package.8¢ç§ßÜ1
+\
+java:S1659"@Declare "yas" and all following declarations on a separate line.(ø÷s8äé§ßÜ1
+i
+java:S1659"GDeclare "yasIndirim" and all following declarations on a separate line.(‹¼³ûÿÿÿÿ8äé§ßÜ1
+L	java:S106"+Replace this use of System.out by a logger.(©ƒıÿÿÿÿ8éé§ßÜ1
+G	java:S106"+Replace this use of System.out by a logger.(Ü—Ğ8êé§ßÜ1
+L	java:S106"+Replace this use of System.out by a logger.(âÜˆüúÿÿÿÿ8êé§ßÜ1
+L	java:S106"+Replace this use of System.out by a logger.(—Î‘ñÿÿÿÿÿ8íé§ßÜ1
+L	java:S106"+Replace this use of System.out by a logger.(©ƒıÿÿÿÿ8íé§ßÜ1
+G	java:S106!"+Replace this use of System.out by a logger.(Ü—Ğ8îé§ßÜ1
+L	java:S106$"+Replace this use of System.out by a logger.(âÜˆüúÿÿÿÿ8îé§ßÜ1
+]	java:S125'"<This block of commented-out lines of code should be removed.(Â¡±úÿÿÿÿ8ïé§ßÜ1
+E	java:S1085")Either remove or fill this block of code.(å¥‡8òé§ßÜ1
+G	java:S106="+Replace this use of System.out by a logger.(ÇƒÁ8øé§ßÜ1
+G	java:S106@"+Replace this use of System.out by a logger.(í‰ë¬8øé§ßÜ1
+G	java:S106J"+Replace this use of System.out by a logger.(ôï £8ùé§ßÜ1
