@@ -27,9 +27,13 @@ public class Main {
             result = n1 * n2;
             System.out.println("Result of the operation: " + result);
         } else if (select == 4) {
-            result = n1 / n2;
-            System.out.println("Result of the operation: " + result);
-        } else {
+            if(n2 != 0){
+                result = n1 / n2;
+                System.out.println("Result of the operation: " + result);
+            } else {
+                    System.out.println("Bir Sayı 0'a Bölünemez! ");
+            }
+    } else {
             System.out.println("Invalid operation number! Please try again.");
         }
     }
