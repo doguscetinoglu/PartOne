@@ -1,0 +1,23 @@
+
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 52 to the 15 allowed.(Çµí‘8Ñˆëˆİ1
+?
+java:S1659"#Declare "month" on a separate line.(ı„Œ!8Òˆëˆİ1
+L	java:S106"+Replace this use of System.out by a logger.(”Áç…ÿÿÿÿÿ8Öˆëˆİ1
+L	java:S106"+Replace this use of System.out by a logger.(ŞİÙşÿÿÿÿ8×ˆëˆİ1
+L	java:S106"+Replace this use of System.out by a logger.(Ë‡Éíùÿÿÿÿ8×ˆëˆİ1
+G	java:S106"+Replace this use of System.out by a logger.(İ÷ÃÛ8×ˆëˆİ1
+E	java:S108")Either remove or fill this block of code.(å¥‡8×ˆëˆİ1
+L	java:S106"+Replace this use of System.out by a logger.(‚Ì øÿÿÿÿ8×ˆëˆİ1
+L	java:S106!"+Replace this use of System.out by a logger.(»ÿ³›ÿÿÿÿÿ8×ˆëˆİ1
+L	java:S106#"+Replace this use of System.out by a logger.(µÙ«ïıÿÿÿÿ8×ˆëˆİ1
+L	java:S106%"+Replace this use of System.out by a logger.(¶ö•Öÿÿÿÿÿ8Øˆëˆİ1
+L	java:S106'"+Replace this use of System.out by a logger.(•Úãšÿÿÿÿÿ8Øˆëˆİ1
+L	java:S106)"+Replace this use of System.out by a logger.(°âÖşÿÿÿÿ8Øˆëˆİ1
+L	java:S106+"+Replace this use of System.out by a logger.(Â¦š‘ùÿÿÿÿ8Ùˆëˆİ1
+G	java:S106-"+Replace this use of System.out by a logger.(Š‹¿´8Ùˆëˆİ1
+L	java:S106/"+Replace this use of System.out by a logger.(¹ö¤¥úÿÿÿÿ8Ùˆëˆİ1
+G	java:S1061"+Replace this use of System.out by a logger.(ÉÖò8Ùˆëˆİ1
+L	java:S1063"+Replace this use of System.out by a logger.( „ôÁùÿÿÿÿ8Úˆëˆİ1
+G	java:S1065"+Replace this use of System.out by a logger.(Ó™©€8Úˆëˆİ1
+L	java:S1067"+Replace this use of System.out by a logger.(’ Ò·ıÿÿÿÿ8Úˆëˆİ1
