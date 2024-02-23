@@ -1,0 +1,11 @@
+
+d
+java:S2184"BCast one of the operands of this division operation to a "double".(ÊúÓËıÿÿÿÿ8´‰šİ1
+b
+java:S2184"@Cast one of the operands of this integer division to a "double".(ÊúÓËıÿÿÿÿ8´‰šİ1
+]
+java:S1659	"@Declare "sum" and all following declarations on a separate line.(®ü¤•8Å‰šİ1
+G	java:S106"+Replace this use of System.out by a logger.(‹¾Ìü8Ê‰šİ1
+E	java:S108")Either remove or fill this block of code.(å¥‡8ú´’šİ1
+G	java:S106 "+Replace this use of System.out by a logger.(ÜÉª÷8Ì‰šİ1
+G	java:S106#"+Replace this use of System.out by a logger.(¸¸ÏÔ8Ì‰šİ1
