@@ -1,0 +1,28 @@
+
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Çµí‘8ˆ—ååİ1
+C
+java:S1659"&Declare "password" on a separate line.(§Úºı8Š—ååİ1
+@
+java:S1659
+"#Declare "price" on a separate line.(ÍòšÍ8Š—ååİ1
+G	java:S106"+Replace this use of System.out by a logger.(ä§ 8—ååİ1
+L	java:S106"+Replace this use of System.out by a logger.(ÓËÌĞüÿÿÿÿ8—ååİ1
+g
+java:S1764"ECorrect one of the identical sub-expressions on both sides of equals.(¦é¾şÿÿÿÿ8—ååİ1
+g
+java:S1764"ECorrect one of the identical sub-expressions on both sides of equals.(¦é¾şÿÿÿÿ8‘—ååİ1
+L	java:S106"+Replace this use of System.out by a logger.(„É»¥şÿÿÿÿ8‘—ååİ1
+G	java:S106"+Replace this use of System.out by a logger.(¿€Èõ8‘—ååİ1
+F	java:S106"+Replace this use of System.out by a logger.(¹¹®8‘—ååİ1
+L	java:S106"+Replace this use of System.out by a logger.(Š‹«áúÿÿÿÿ8’—ååİ1
+=	java:S131""Add a default case to this switch.(ùé 8’—ååİ1
+G	java:S106"+Replace this use of System.out by a logger.(±âÉ8’—ååİ1
+G	java:S106""+Replace this use of System.out by a logger.(¬²·ß8“—ååİ1
+L	java:S106%"+Replace this use of System.out by a logger.(™ñ÷Øÿÿÿÿÿ8“—ååİ1
+L	java:S106&"+Replace this use of System.out by a logger.(ÿ÷É¥úÿÿÿÿ8“—ååİ1
+G	java:S106'"+Replace this use of System.out by a logger.(’ë8“—ååİ1
+G	java:S106-"+Replace this use of System.out by a logger.(’ë8“—ååİ1
+L	java:S1060"+Replace this use of System.out by a logger.(æˆı·ûÿÿÿÿ8”—ååİ1
+L	java:S1063"+Replace this use of System.out by a logger.(©™á…şÿÿÿÿ8Ëàïåİ1
+E	java:S1085")Either remove or fill this block of code.(å¥‡8”—ååİ1
