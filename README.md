@@ -22,38 +22,42 @@ This repository serves as a comprehensive record of my learning journey, designe
 
 |# of Week| #  | Practice Name|
 |:---:    |---:|:----         |
-| 1       | 1  | [Grade Point Average Calculator](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/GradePointAverageCalculator)|
-| 1       | 2  | [VAT Calculator](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/VATCalculator)|
-| 1       | 3  | [Triangle Area](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/TriangleArea)|
-| 1       | 4  | [Taxi Meter](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/TaxiMeter)|
-| 1       | 5  | [Circle Area](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/CircleArea)|
-| 1       | 6  | [Body Mass Index](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/BodyMassIndex)|
-| 1       | 7  | [Green Grocer Calculator](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/GreenGrocerCalculator)|
-| 1       | 8  | [Calculator](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/Calculator)|
-| 1       | 9  | [Login](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/Login)|
-| 1       | 10 | [Passing Grade](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/PassingGrade)|
-| 1       | 11 | [Activity Recommendation](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/ActivityRecommendation)|
-| 1       | 12 | [Horoscope](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/Horoscope)|
-| 1       | 13 | [Flight Ticket](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/FlightTicket)|
-| 1       | 14 | [Chineese Zodiac](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/Chinese%20Zodiac)|
-| 1       | 15 | [Bissextile](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/Bissextile)|
-| 1       | 16 | [Even Numbers](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/EvenNumbers)|
-| 1       | 17 | [Odd Numbers](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/OddNumbers)|
-| 1       | 18 | [Power Scope](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/PowerScope)|
-| 1       | 19 | [Combination](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/Combination)|
-| 1       | 20 | [Exponents](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/Exponents)|
-| 1       | 21 | [Digit Sum](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/DigitSum)|
-| 1       | 22 | [Harmonic Series](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/HarmonicSeries)|
-| 1       | 23 | [Diamond](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/Diamond)|
-| 1       | 24 | [ATM](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/ATM)|
-| 1       | 25 | [GDC and LCM Calculator](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/GdcLcmCalculator)|
-| 1       | 26 | [Find Biggest Number](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/FindBiggestNumber)|
-| 1       | 27 | [Perfect Number](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/PerfectNumber)|
-| 1       | 28 | [Inverted Triangle](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/InvertedTriangle)|
-| 1       | 29 | [Prime Number](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/PrimeNumber)|
-| 1       | 30 | [Fibonacci Series](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/FibonacciSeries)|
-| 1       | 31 | [Precedence](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/Precedence)|
-| 1       | 32 | [Casting](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/Casting)|
+| 1       | 1  | [ATM](https://github.com/doguscetinoglu/PartOne/tree/main/ATM)|
+| 1       | 2  | [ArithmeticOperations](https://github.com/doguscetinoglu/PartOne/tree/main/ArithmeticOperations)|
+| 1       | 3  | [Armstrong](https://github.com/doguscetinoglu/PartOne/tree/main/Armstrong)|
+| 1       | 4  | [AsalFind](https://github.com/doguscetinoglu/PartOne/tree/main/AsalFind)|
+| 1       | 5  | [AverageOfNumbersDivisibleBy3And4](https://github.com/doguscetinoglu/PartOne/tree/main/AverageOfNumbersDivisibleBy3And4)|
+| 1       | 6  | [BackStars](https://github.com/doguscetinoglu/PartOne/tree/main/BackStars)|
+| 1       | 7  | [Calculator](https://github.com/doguscetinoglu/PartOne/tree/main/Calculator)|
+| 1       | 8  | [Casting](https://github.com/doguscetinoglu/PartOne/tree/main/Casting)|
+| 1       | 9  | [Circle Area Calculator](https://github.com/doguscetinoglu/PartOne/tree/main/Circle%20Area%20Calculator)|
+| 1       | 10 | [ClassPassingGradeApplication](https://github.com/doguscetinoglu/PartOne/tree/main/ClassPassingGradeApplication)|
+| 1       | 11 | [EbobEkok](https://github.com/doguscetinoglu/PartOne/tree/main/EbobEkok)|
+| 1       | 12 | [ExponentialNumber](https://github.com/doguscetinoglu/PartOne/tree/main/ExponentialNumber)|
+| 1       | 13 | [FactorialProgramming](https://github.com/doguscetinoglu/PartOne/tree/main/FactorialProgramming)|
+| 1       | 14 | [Fibonacci](https://github.com/doguscetinoglu/PartOne/tree/main/Fibonacci)|
+| 1       | 15 | [HipotenusFind](https://github.com/doguscetinoglu/PartOne/tree/main/HipotenusFind)|
+| 1       | 16 | [KdvHesap](https://github.com/doguscetinoglu/PartOne/tree/main/KdvHesap)|
+| 1       | 17 | [LeapYear](https://github.com/doguscetinoglu/PartOne/tree/main/LeapYear)|
+| 1       | 18 | [MKP](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/01-WeekOne/Combination)|
+| 1       | 19 | [NotOrtalamaHesap](https://github.com/doguscetinoglu/PartOne/tree/main/NotOrtalamaHesap)|
+| 1       | 20 | [NumberAnalyzer](https://github.com/doguscetinoglu/PartOne/tree/main/NumberAnalyzer)|
+| 1       | 21 | [NumberSorter](https://github.com/doguscetinoglu/PartOne/tree/main/NumberSorter)|
+| 1       | 22 | [OddSumCalculator](https://github.com/doguscetinoglu/PartOne/tree/main/OddSumCalculator)|
+| 1       | 23 | [PalindromNumbers](https://github.com/doguscetinoglu/PartOne/tree/main/PalindromNumbers)|
+| 1       | 24 | [PerfectNumber](https://github.com/doguscetinoglu/PartOne/tree/main/PerfectNumber)|
+| 1       | 25 | [Power4And5Printer](https://github.com/doguscetinoglu/PartOne/tree/main/Power4And5Printer)|
+| 1       | 26 | [ProgrammeFindingHarmonicNumbers](https://github.com/doguscetinoglu/PartOne/tree/main/ProgrammeFindingHarmonicNumbers)|
+| 1       | 27 | [Stars](https://github.com/doguscetinoglu/PartOne/tree/main/Stars)|
+| 1       | 28 | [TaximeterPrograms](https://github.com/doguscetinoglu/PartOne/tree/main/TaximeterPrograms)|
+| 1       | 29 | [TemperatureWizard](https://github.com/doguscetinoglu/PartOne/tree/main/TemperatureWizard)|
+| 1       | 30 | [TicketPrices](https://github.com/doguscetinoglu/PartOne/tree/main/TicketPrices)|
+| 1       | 31 | [UserLogin](https://github.com/doguscetinoglu/PartOne/tree/main/UserLogin)|
+| 1       | 32 | [VKI](https://github.com/doguscetinoglu/PartOne/tree/main/VKI)|
+| 1       | 33 | [ZodiacChina](https://github.com/doguscetinoglu/PartOne/tree/main/ZodiacChina)|
+| 1       | 34 | [ZodiacFinder](https://github.com/doguscetinoglu/PartOne/tree/main/ZodiacFinder)|
+
+
 
 </details>
 
@@ -63,16 +67,8 @@ This repository serves as a comprehensive record of my learning journey, designe
 
 |# of Week| #  | Practice Name|
 |:---:    |---:|:----         |
-| 2       | 1  | [Polindrome](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/02-WeekTwo/Polindrome)|
-| 2       | 2  | [Advance Calculator](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/02-WeekTwo/AdvanceCalculator)|
-| 2       | 3  | [Recursive Exponential](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/02-WeekTwo/RecursiveExponential)|
-| 2       | 4  | [Recursive Prime Number](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/02-WeekTwo/RecursivePrimeNumber)|
-| 2       | 5  | [Recursive Pattern](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/02-WeekTwo/RecursivePattern)|
-| 2       | 6  | [Recursive Pattern Second](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/02-WeekTwo/RecursivePatternSecond)|
-| 2       | 7  | [Student Information System](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/02-WeekTwo/StudentInformationSystem)|
-| 2       | 8  | [Boxer Game](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/02-WeekTwo/BoxerGame)|
-| 2       | 9  | [Salary Calculator](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/02-WeekTwo/SalaryCalculator)|
-| 2       | 10 | [Harmonic Average](https://github.com/semih-turan/The-Full-Stack-Web-Development-Bootcamp/tree/main/02-WeekTwo/HarmonicAverage)||
+| 2       | 1  | [PART TWO](https://github.com/doguscetinoglu/PartTwo)|
+
 
 </details>
 
@@ -81,3 +77,5 @@ This repository serves as a comprehensive record of my learning journey, designe
 ### Usage Rights
 
 All projects and practice exercises are freely available for use. You are welcome to explore, modify, and share them as you wish. If you have any questions, please don't hesitate to contact me.
+
+[![Doğuş Çetinoğlu'i](/readmeAssets/logo.png "D & C Linkedin Logo'i")](https://www.linkedin.com/in/doguscetinoglu/)
